@@ -13,7 +13,7 @@ exports:
 * - Instructor
   - Dr. Sarah M Brown
 * - Meeting time
-  - Monday 
+  - Monday 3:30-5:30pm
 * - Office Location
   - 134 Tyler
 * - Student Help hour
@@ -69,6 +69,11 @@ Each week there will be 2 hours of meeting time. This time will be split into 1 
 This course counts for 2 credits of practicum time as well, so there is more significant work outside of class time than a typical lecture-based course. 
 
 In total, students should expect to spend 10 (2*2+2*3) to 14 (2*3+2*4) per week  on this course on average, though this may vary somewhat week to week. 
+
+:::::{attention}
+This is a tentative schedule and is subject to change, it is not recommended that you try to get ahead without discussing with Dr. Brown
+::::::
+
 
 ```{list-table}
 * - Week Number
