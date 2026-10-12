@@ -10,13 +10,13 @@ exports:
 # Syllabus
 
 ```{list-table}
+* - Class time
+  - Monday 3:30-5:30pm
 * - Instructor
   - Dr. Sarah M Brown
-* - Meeting time
-  - Monday 3:30-5:30pm
 * - Office Location
   - 134 Tyler
-* - Student Help hour
+* - Student Help Hours
   - TBA
 ```
 
@@ -77,66 +77,83 @@ This is a tentative schedule and is subject to change, it is not recommended tha
 
 ```{list-table}
 * - Week Number
+  - Date
   - Lecture
   - Activity
   - Items Due (hours)
 * - 1
+  - 2026-02-01
   - Introduction to the theme & How to read research
   - research paper finding/library use workshop
   - preparatory setups (necessary accounts, etc)
 * - 2
+  - 2026-02-08
   - Literature Review
   - paper discussions/evaluation
   - paper summary worksheet (6-8), literature review preview (2-3)
 * - 3
+  - 2026-02-15
   - Hypothesis development
   - literature review workshop & hypothesis evaluation exercise
   - literature review scoping worksheet (4-6)  & annotated bibliography (6-8)
 * - 4
+  - 2026-02-22
   - Peer review on hypotheses
   - hypotheses workshop
   - draft hypotheses for workshopping (2-4); literature review complete draft (8-12)
 * - 5 
+  - 2026-03-01
   - Experimental Design for Empirical ML
   - tiny ML pipeline experiment
   - refined hypothesis (2-4); ML review problem set (8-12)
 * - 6 
+  - 2026-03-08
   - Peer review on designs 
   - Experiment design workshop 
   - method practice problem (5-7); draft design for workshopping (5-7)
 * - 7
-  - Model-based simulation      
+  - 2026-03-15
+  - Model-based simulation  and Rigorous evaluation in ML     
   - Project updates/practice with simulation tools
   - project update (1); project work (9-13)
-* - 8   
-  - Rigorous evaluation in ML    
+* - spring break
+  - 2026-03-22
+  - no class
+  - get some rest
+  - nothing due
+* - 8 
+  - 2026-03-29 
+  - Statistical analysis of ML experiments & Data visualization   
   - Project updates/problem solving workshop    
   - project update (1); project work (9-13)
 * - 9
+  - 2026-04-05
   - N/A
   - Preliminary result workshop/problem solving session
   - project update (1); project work (9-13)
 * - 10
+  - 2026-04-12
   - Writing research
   - careful reading exercise/disecting an abstract 
   - project update (1); project work (9-13)
 * - 11
-  - N/A
+  - 2026-04-19
+  - Presenting research
   - Abstract Workshop 
   - abstract draft (3);  project work (7-11)
 * - 12
-  - Statistical analysis of ML experiments & Data visualization
+  - 2026-04-26
+  - Reflection discussion
   - Collaborative analysis design/ problem solving
   - discussion prep worksheet (3);  project work (7-11)
 * - 13
-  - N/A
-  - Paper and Presentation Worskhop
-  - draft paper & slides (10-14)
-* - 14
+  - 2026-05-03
   - N/A
   - Research presentations
-  - final paper, slides, and complete project (10-14)
+  - draft paper, slides, and complete project (10-14)
 ```
+
+Final paper revisions will be allowed after the presentations. 
 
 
 ## Grading
@@ -153,9 +170,9 @@ To earn a grade of S students must:
 - maintain reflection journal
 
 
-## Journal problems
+<!-- ## Journal Prompts -->
 
-- 1/2 page prompt
+<!-- - 1/2 page prompt -->
 
 ## General Policies
 
