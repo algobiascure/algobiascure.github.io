@@ -150,6 +150,12 @@ To earn a grade of S students must:
 - execute the experiment as designed
 - analyze results or reasons the experiment failed
 - complete a final paper adhering the style for venues in ML
+- maintain reflection journal
+
+
+## Journal problems
+
+- 1/2 page prompt
 
 ## General Policies
 
