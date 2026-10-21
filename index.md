@@ -26,6 +26,13 @@ A course based research experience is a means of teaching research methods throu
 
 ## Theme & Method
 
+:::{note}
+
+The prerequisite for this section is CSC/DSP 310
+::::
+
+
+
 In this course, we will use model-based simulations to evaluate how biases propagate in multi-algorithmic systems. Each student will develop a hypothesis about how multi-algorithmic systems interact with social biases, design an experiment to test their hypothesis, and analyze final results. All students will work on related questions and apply similar methodologies and workshops will allow students to get the benefit of learning together while also leading their own investigation. 
 
 Possible motivating questions that can be refined into more specific hypotheses may include:
