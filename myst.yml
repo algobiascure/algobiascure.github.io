@@ -16,7 +16,7 @@ site:
   options:
     hide_myst_branding: true
     hide_outline: true
-    favicon: algobias-ico.png
+    favicon: algobias.ico
     logo: algobias.png
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
