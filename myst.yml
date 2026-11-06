@@ -16,10 +16,9 @@ site:
   options:
     hide_myst_branding: true
     hide_outline: true
+    favicon: algobias-ico.png
+    logo: algobias.png
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
     banner: To take this course, request a [permission number](https://docs.google.com/forms/d/e/1FAIpQLSeK67qRFaAKepFGLp8rfMJ-7d1JctqIgg3m1q4l0YIZAmqA3g/viewform?usp=publish-editor)
   # template: book-theme
-  options:
-    favicon: algobias-ico.png
-    logo: algobias.png
